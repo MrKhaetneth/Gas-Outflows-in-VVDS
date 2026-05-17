@@ -1,0 +1,5 @@
+# Raw data
+dataset/
+
+# population information
+data_preprocessing/UltraDeep.h5
